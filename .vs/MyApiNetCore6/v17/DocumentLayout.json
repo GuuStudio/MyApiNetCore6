@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|solutionrelative:myapinetcore6\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|d:\\1.learncode\\1. asp.net core\\myapinetcore6\\myapinetcore6\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|solutionrelative:myapinetcore6\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|d:\\1.learncode\\1. asp.net core\\myapinetcore6\\myapinetcore6\\data\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|solutionrelative:myapinetcore6\\data\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|d:\\1.learncode\\1. asp.net core\\myapinetcore6\\myapinetcore6\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|solutionrelative:myapinetcore6\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|d:\\1.learncode\\1. asp.net core\\myapinetcore6\\myapinetcore6\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|solutionrelative:myapinetcore6\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|d:\\1.learncode\\1. asp.net core\\myapinetcore6\\myapinetcore6\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
@@ -88,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "MyApiNetCore6\\Controllers\\ProductsController.cs",
@@ -97,8 +97,7 @@
               "ViewState": "AQIAACsAAAAAAAAAAAAgwD0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T02:37:10.491Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -118,7 +117,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "MyApiNetCore6\\Repositories\\BookRepository.cs",
+              "ToolTip": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "MyApiNetCore6\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T09:34:57.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "BookStoreContext.cs",
               "DocumentMoniker": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Data\\BookStoreContext.cs",
               "RelativeDocumentMoniker": "MyApiNetCore6\\Data\\BookStoreContext.cs",
@@ -131,20 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Repositories\\BookRepository.cs",
-              "RelativeDocumentMoniker": "MyApiNetCore6\\Repositories\\BookRepository.cs",
-              "ToolTip": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Repositories\\BookRepository.cs",
-              "RelativeToolTip": "MyApiNetCore6\\Repositories\\BookRepository.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T09:34:57.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "IBookRepository.cs",
               "DocumentMoniker": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Repositories\\IBookRepository.cs",
               "RelativeDocumentMoniker": "MyApiNetCore6\\Repositories\\IBookRepository.cs",
@@ -165,8 +164,7 @@
               "RelativeToolTip": "MyApiNetCore6\\Controllers\\BooksController.cs",
               "ViewState": "AQIAAEgAAAAAAAAAAAAYwB4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T16:24:41.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T16:24:41.774Z"
             },
             {
               "$type": "Document",

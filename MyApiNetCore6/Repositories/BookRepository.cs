@@ -36,8 +36,11 @@ namespace MyApiNetCore6.Repositories
             {
                 _context.books!.Remove(deleteBook);
                 await _context.SaveChangesAsync();
+            } else
+            {
+                throw new Exception("Notfound()");
             }
-            throw new Exception("Notfound()");
+            
         }
 
         public async Task<IEnumerable<BookModel>> GetAllBookAsync()
