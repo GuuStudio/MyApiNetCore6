@@ -27,7 +27,7 @@ namespace MyApiNetCore6.Controllers
             {
                 return Ok(result.Succeeded);
             }
-            return Unauthorized();
+            return StatusCode(StatusCodes.Status502BadGateway);
         }
 
         [HttpPost("SignIn")]

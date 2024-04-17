@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.IdentityModel.Tokens;
 using MyApiNetCore6.Data;
+using MyApiNetCore6.Helpers;
 using MyApiNetCore6.Models;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
@@ -13,19 +14,22 @@ namespace MyApiNetCore6.Repositories
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly SignInManager<ApplicationUser> _signInManager;
         private readonly IConfiguration _configuration;
+        private readonly RoleManager<IdentityRole> _roleManager;
 
         public AccountRepository(UserManager<ApplicationUser> userManager, 
             SignInManager<ApplicationUser> signInManager,
-            IConfiguration configuration) { 
+            IConfiguration configuration,
+            RoleManager<IdentityRole> roleManager) { 
             _userManager = userManager;
             _signInManager = signInManager;
             _configuration = configuration;
+            _roleManager = roleManager;
         }
         public async Task<string> SignInAsync(SignInModel model)
         {
-            var result = await _signInManager.PasswordSignInAsync(
-                model.Email, model.Password, false, false);
-            if (!result.Succeeded) {
+            var user = await _userManager.FindByEmailAsync(model.Email);
+            bool passwordValid = await _userManager.CheckPasswordAsync(user!, model.Password);
+            if (user == null || !passwordValid) {
                 return string.Empty;
             }
             var authClaims = new List<Claim>
@@ -33,6 +37,10 @@ namespace MyApiNetCore6.Repositories
                 new Claim(ClaimTypes.Email, model.Email),
                 new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
             };
+            var userRoles = await _userManager.GetRolesAsync(user);
+            foreach ( var role in userRoles) { 
+                authClaims.Add(new Claim(ClaimTypes.Role , role.ToString()));
+            }
             var authenKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["JWT:Secret"]!));
             var token = new JwtSecurityToken(
                 issuer: _configuration["JWT:ValidIssuer"],
@@ -58,7 +66,16 @@ namespace MyApiNetCore6.Repositories
                     Email = model.Email,
                     UserName = model.Email
                 };
-                return await _userManager.CreateAsync(user, model.Password);
+                var result=  await _userManager.CreateAsync(user, model.Password);
+                if (result.Succeeded)
+                {
+                    if(!await _roleManager.RoleExistsAsync(AppRole.Customer))
+                    {
+                        await _roleManager.CreateAsync(new IdentityRole(AppRole.Customer));
+                    }
+                    await _userManager.AddToRoleAsync(user, AppRole.Customer);
+                }
+                return result;
             } else
             {
                 throw new Exception();

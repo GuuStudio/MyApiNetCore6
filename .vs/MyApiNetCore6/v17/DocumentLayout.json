@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|d:\\1.learncode\\1. asp.net core\\myapinetcore6\\myapinetcore6\\helpers\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|solutionrelative:myapinetcore6\\helpers\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|d:\\1.learncode\\1. asp.net core\\myapinetcore6\\myapinetcore6\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|solutionrelative:myapinetcore6\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|d:\\1.learncode\\1. asp.net core\\myapinetcore6\\myapinetcore6\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|solutionrelative:myapinetcore6\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|d:\\1.learncode\\1. asp.net core\\myapinetcore6\\myapinetcore6\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|solutionrelative:myapinetcore6\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|d:\\1.learncode\\1. asp.net core\\myapinetcore6\\myapinetcore6\\helpers\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|solutionrelative:myapinetcore6\\helpers\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|d:\\1.learncode\\1. asp.net core\\myapinetcore6\\myapinetcore6\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -51,13 +51,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AccountRepository.cs",
               "DocumentMoniker": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Repositories\\AccountRepository.cs",
               "RelativeDocumentMoniker": "MyApiNetCore6\\Repositories\\AccountRepository.cs",
               "ToolTip": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Repositories\\AccountRepository.cs",
               "RelativeToolTip": "MyApiNetCore6\\Repositories\\AccountRepository.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAA3wCQAAAAtAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAA1wCkAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T11:53:06.581Z",
               "IsPinned": true,
@@ -87,10 +87,9 @@
               "RelativeDocumentMoniker": "MyApiNetCore6\\Controllers\\AccountController.cs",
               "ToolTip": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Controllers\\AccountController.cs",
               "RelativeToolTip": "MyApiNetCore6\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAQwCgAAAAeAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwB0AAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T15:47:24.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T15:47:24.293Z"
             },
             {
               "$type": "Document",
@@ -102,8 +101,7 @@
               "RelativeToolTip": "MyApiNetCore6\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-17T02:07:14.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T02:07:14.854Z"
             },
             {
               "$type": "Document",
@@ -115,21 +113,19 @@
               "RelativeToolTip": "MyApiNetCore6\\Controllers\\ProductsController.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAYwC0AAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T05:30:29.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T05:30:29.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AppRole.cs",
               "DocumentMoniker": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Helpers\\AppRole.cs",
               "RelativeDocumentMoniker": "MyApiNetCore6\\Helpers\\AppRole.cs",
               "ToolTip": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Helpers\\AppRole.cs",
               "RelativeToolTip": "MyApiNetCore6\\Helpers\\AppRole.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T06:47:07.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T06:47:07.929Z"
             }
           ]
         }

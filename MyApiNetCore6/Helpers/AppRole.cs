@@ -1,6 +1,6 @@
 ﻿namespace MyApiNetCore6.Helpers
 {
-    public class AppRole
+    public static class AppRole
     {
         public const string Admin = "Administrator";
         public const string Customer = "Customer";

@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using MyApiNetCore6.Data;
+using MyApiNetCore6.Helpers;
 using MyApiNetCore6.Models;
 using MyApiNetCore6.Repositories;
 using System.Runtime.CompilerServices;
@@ -40,6 +41,7 @@ namespace MyApiNetCore6.Controllers
             return book == null ? NotFound() : Ok(book);
         }
         [HttpPost]
+        [Authorize(Roles = AppRole.Customer)]
         public async Task<IActionResult> AddNewBook( BookModel bookModel) {
             try
             {
