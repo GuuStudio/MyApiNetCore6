@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyApiNetCore6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af8d63aff0f178a81c3d698aa70b27c726237bc9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ae2c853ed6bf2ebaf526ac6525cd5bc5be0a082")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyApiNetCore6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyApiNetCore6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

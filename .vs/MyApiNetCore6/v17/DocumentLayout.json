@@ -3,52 +3,24 @@
   "WorkspaceRootPath": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|d:\\1.learncode\\1. asp.net core\\myapinetcore6\\myapinetcore6\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|solutionrelative:myapinetcore6\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|d:\\1.learncode\\1. asp.net core\\myapinetcore6\\myapinetcore6\\data\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|solutionrelative:myapinetcore6\\data\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|d:\\1.learncode\\1. asp.net core\\myapinetcore6\\myapinetcore6\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|solutionrelative:myapinetcore6\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|d:\\1.learncode\\1. asp.net core\\myapinetcore6\\myapinetcore6\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|solutionrelative:myapinetcore6\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|d:\\1.learncode\\1. asp.net core\\myapinetcore6\\myapinetcore6\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|solutionrelative:myapinetcore6\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|d:\\1.learncode\\1. asp.net core\\myapinetcore6\\myapinetcore6\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|solutionrelative:myapinetcore6\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|d:\\1.learncode\\1. asp.net core\\myapinetcore6\\myapinetcore6\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|solutionrelative:myapinetcore6\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|d:\\1.learncode\\1. asp.net core\\myapinetcore6\\myapinetcore6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|solutionrelative:myapinetcore6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|d:\\1.learncode\\1. asp.net core\\myapinetcore6\\myapinetcore6\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|solutionrelative:myapinetcore6\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|d:\\1.learncode\\1. asp.net core\\myapinetcore6\\myapinetcore6\\migrations\\20240412162331_addbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|solutionrelative:myapinetcore6\\migrations\\20240412162331_addbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|d:\\1.learncode\\1. asp.net core\\myapinetcore6\\myapinetcore6\\migrations\\bookstorecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|solutionrelative:myapinetcore6\\migrations\\bookstorecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|d:\\1.learncode\\1. asp.net core\\myapinetcore6\\myapinetcore6\\migrations\\20240412161520_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|solutionrelative:myapinetcore6\\migrations\\20240412161520_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|d:\\1.learncode\\1. asp.net core\\myapinetcore6\\myapinetcore6\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|solutionrelative:myapinetcore6\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|d:\\1.learncode\\1. asp.net core\\myapinetcore6\\myapinetcore6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|solutionrelative:myapinetcore6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|d:\\1.learncode\\1. asp.net core\\myapinetcore6\\myapinetcore6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B00752-C6FD-4191-926D-0E3DCDA3E3A4}|MyApiNetCore6\\MyApiNetCore6.csproj|solutionrelative:myapinetcore6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,46 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Book.cs",
-              "DocumentMoniker": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Data\\Book.cs",
-              "RelativeDocumentMoniker": "MyApiNetCore6\\Data\\Book.cs",
-              "ToolTip": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Data\\Book.cs",
-              "RelativeToolTip": "MyApiNetCore6\\Data\\Book.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBIAAAABAAAA",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Program.cs",
+              "RelativeDocumentMoniker": "MyApiNetCore6\\Program.cs",
+              "ToolTip": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Program.cs",
+              "RelativeToolTip": "MyApiNetCore6\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T16:03:09.253Z",
+              "WhenOpened": "2024-04-12T16:11:35.786Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BookModel.cs",
-              "DocumentMoniker": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Models\\BookModel.cs",
-              "RelativeDocumentMoniker": "MyApiNetCore6\\Models\\BookModel.cs",
-              "ToolTip": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Models\\BookModel.cs",
-              "RelativeToolTip": "MyApiNetCore6\\Models\\BookModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "DocumentIndex": 1,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "MyApiNetCore6\\Repositories\\AccountRepository.cs",
+              "ToolTip": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "MyApiNetCore6\\Repositories\\AccountRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA3wCQAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T09:00:10.085Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "MyApiNetCore6\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "MyApiNetCore6\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAgwD0AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T02:37:10.491Z",
-              "IsPinned": true
+              "WhenOpened": "2024-04-16T11:53:06.581Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -117,114 +77,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Repositories\\BookRepository.cs",
-              "RelativeDocumentMoniker": "MyApiNetCore6\\Repositories\\BookRepository.cs",
-              "ToolTip": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Repositories\\BookRepository.cs",
-              "RelativeToolTip": "MyApiNetCore6\\Repositories\\BookRepository.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCgAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T09:34:57.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookStoreContext.cs",
-              "DocumentMoniker": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Data\\BookStoreContext.cs",
-              "RelativeDocumentMoniker": "MyApiNetCore6\\Data\\BookStoreContext.cs",
-              "ToolTip": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Data\\BookStoreContext.cs",
-              "RelativeToolTip": "MyApiNetCore6\\Data\\BookStoreContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T16:03:46.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IBookRepository.cs",
-              "DocumentMoniker": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Repositories\\IBookRepository.cs",
-              "RelativeDocumentMoniker": "MyApiNetCore6\\Repositories\\IBookRepository.cs",
-              "ToolTip": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Repositories\\IBookRepository.cs",
-              "RelativeToolTip": "MyApiNetCore6\\Repositories\\IBookRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MyApiNetCore6\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MyApiNetCore6\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwCgAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T02:54:53.015Z",
+              "WhenOpened": "2024-04-16T15:47:24.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "MyApiNetCore6\\Controllers\\BooksController.cs",
-              "ToolTip": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "MyApiNetCore6\\Controllers\\BooksController.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAYwB4AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T16:24:41.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Program.cs",
-              "RelativeDocumentMoniker": "MyApiNetCore6\\Program.cs",
-              "ToolTip": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Program.cs",
-              "RelativeToolTip": "MyApiNetCore6\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T16:11:35.786Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20240412162331_AddBooks.cs",
-              "DocumentMoniker": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Migrations\\20240412162331_AddBooks.cs",
-              "RelativeDocumentMoniker": "MyApiNetCore6\\Migrations\\20240412162331_AddBooks.cs",
-              "ToolTip": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Migrations\\20240412162331_AddBooks.cs",
-              "RelativeToolTip": "MyApiNetCore6\\Migrations\\20240412162331_AddBooks.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T16:23:31.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BookStoreContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Migrations\\BookStoreContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "MyApiNetCore6\\Migrations\\BookStoreContextModelSnapshot.cs",
-              "ToolTip": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Migrations\\BookStoreContextModelSnapshot.cs",
-              "RelativeToolTip": "MyApiNetCore6\\Migrations\\BookStoreContextModelSnapshot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T16:21:47.274Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20240412161520_DbInit.cs",
-              "DocumentMoniker": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Migrations\\20240412161520_DbInit.cs",
-              "RelativeDocumentMoniker": "MyApiNetCore6\\Migrations\\20240412161520_DbInit.cs",
-              "ToolTip": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Migrations\\20240412161520_DbInit.cs",
-              "RelativeToolTip": "MyApiNetCore6\\Migrations\\20240412161520_DbInit.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T16:15:20.384Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\appsettings.json",
               "RelativeDocumentMoniker": "MyApiNetCore6\\appsettings.json",
               "ToolTip": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\appsettings.json",
               "RelativeToolTip": "MyApiNetCore6\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-12T16:09:34.859Z"
+              "WhenOpened": "2024-04-17T02:07:14.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MyApiNetCore6\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\1.LearnCode\\1. Asp.Net core\\MyApiNetCore6\\MyApiNetCore6\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MyApiNetCore6\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwC0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:30:29.249Z",
+              "EditorCaption": ""
             }
           ]
         }
